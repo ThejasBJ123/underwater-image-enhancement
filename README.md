@@ -9,7 +9,8 @@ Underwater images often suffer from:
 - Color distortion due to light absorption
 - Hazy appearance from scattering
 - Loss of detail and contrast
-
+  Video demo link
+  
 We propose an image enhancement system using deep neural networks to restore visual quality in a fully automated pipeline.
 
 ## 🧠 Key Features
