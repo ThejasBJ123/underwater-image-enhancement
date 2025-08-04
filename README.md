@@ -3,11 +3,15 @@
 
 This project enhances underwater images using deep learning techniques to restore clarity, color, and detail. Designed as part of the CS517 curriculum, it addresses the visibility and distortion challenges in underwater photography, crucial for marine biology, diving, and surveillance.
 
+**link to see**
+https://underwater-image-enhancement-izpnswfjfheuwdnmsbqhnr.streamlit.app/
+**Demo video **
 
-Demo video 
 
 
-Uploading underwater-image.mp4…
+https://github.com/user-attachments/assets/e64ad549-6e0f-41cc-b369-c1d256892217
+
+
 
 
 ## 🔍 Project Overview
