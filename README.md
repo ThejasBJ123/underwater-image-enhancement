@@ -14,6 +14,9 @@ https://github.com/user-attachments/assets/e64ad549-6e0f-41cc-b369-c1d256892217
 
 
 
+python version python --version
+# Recommended: Python 3.8.0
+
 ## 🔍 Project Overview
 
 Underwater images often suffer from:
