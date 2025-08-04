@@ -3,6 +3,13 @@
 
 This project enhances underwater images using deep learning techniques to restore clarity, color, and detail. Designed as part of the CS517 curriculum, it addresses the visibility and distortion challenges in underwater photography, crucial for marine biology, diving, and surveillance.
 
+
+Demo video 
+
+
+Uploading underwater-image.mp4…
+
+
 ## 🔍 Project Overview
 
 Underwater images often suffer from:
